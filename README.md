@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey 👋, I'm Karshin
 
-<!--
-**karshin-uppal/karshin-uppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 ERPNext Developer | I build things that make business workflows less painful
 
-Here are some ideas to get you started:
+I spend most of my time tweaking ERP systems so people don’t have to fight them 😄
+Mostly working with **Frappe + ERPNext + Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ What I usually do
+
+* Fix messy workflows
+* Automate repetitive work
+* Make ERPNext do what it *should have done by default*
+* Handle large data without breaking things
+
+---
+
+## 🛠️ Tech I use
+
+* Python
+* Frappe / ERPNext
+* JavaScript
+* MySQL
+
+---
+
+## 🚧 Stuff I've worked on
+
+* Splitting huge Sales Orders into multiple Purchase Orders
+* Smart supplier filtering (less clicking, more accuracy)
+* Batch & warehouse logic tweaks
+* BOM cleanup automation
+* Print formats that actually print properly 🥲
+
+---
+
+## 🌱 Currently
+
+Trying to get better at:
+
+* Writing cleaner backend logic
+* Optimizing performance
+* Building scalable ERP systems
+
+---
+
+
+## 🤝 Let's connect
+
+* LinkedIn: https://linkedin.com/in/karshin-uppal
+* Email: uppalkarshin@gmail.com
+
+---
+
+⭐ If it works, automate it.
+⭐ If it breaks, debug it.
+⭐ If it's repetitive, I probably already tried to script it.
