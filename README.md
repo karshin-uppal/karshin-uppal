@@ -22,6 +22,7 @@ Mostly working with **Frappe + ERPNext + Python**
 * Frappe / ERPNext
 * JavaScript
 * MySQL
+* HTML, CSS
 
 ---
 
